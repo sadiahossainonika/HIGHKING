@@ -1,0 +1,551 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap');
+
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+}
+
+/*--------------------nav bar start-----------------*/
+nav {
+    position: absolute !important;
+    width: 100%;
+}
+
+.nav_logo {
+    padding-top: 43px;
+}
+.nav-item {
+    margin-left: 66px;
+    padding-top: 47px;
+}
+.nav-item a {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+    color: #05060A;
+}
+
+/*--------------------nav bar end-----------------*/
+/*--------------------banner css start-----------------*/
+#banner {
+    background: url("../images/Background.png") no-repeat center;
+    background-size: cover;
+    padding-bottom: 56px;
+}
+#banner .banner_text_area {
+    padding-top: 180px;
+}
+#banner .banner_text_area h1 {
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 128%;
+    letter-spacing: 0.72px;
+    color: #05060A;
+    padding-bottom: 10px;
+}
+#banner .banner_text_area p {
+    font-weight: 500px;
+    font-size: 22px;
+    line-height: 150%;
+    color: #5D616F;
+    width: 400px;
+    padding-bottom: 52px;
+}
+
+#banner .banner_contact a {
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #3E82FC;
+    padding: 15px 40px;
+    border: 1px solid #3E82FC;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.4s;
+}
+
+#banner .banner_contact a:hover {
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+
+#banner .watch-btn {
+    margin-left: 28px;
+}
+
+#banner .banner_img {
+    padding-top: 200px;
+    padding-left: 70px;
+}
+
+#banner .banner_secret {
+    background: #FBFEFF;
+    padding: 66px 66px;
+}
+
+#banner .secret-text-area h2 {
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 26px;
+    color: #05060A;
+    padding-top: 28px;
+}
+
+#banner .secret-text-area p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #5D616F;
+    width: 252px;
+    padding-top: 12px;
+}
+
+#banner .secret-text-area a {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FE2C54;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+#banner .secret-text-area a:hover {
+    text-decoration: underline;
+}
+#banner .banner_secret {
+    margin-top: 80px;
+}
+#banner h4 {
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #5D616F;
+    padding-top: 76px;
+    text-align: center;
+}
+#banner h4 span{
+    font-weight: 700px;
+    font-size: 18px;
+    left: 28px;
+    color: #FE2C54;
+    font-style: italic;
+}
+/*--------------------banner css end-----------------*/
+/*--------------------safe css start-----------------*/
+#safe{
+    margin-top: 130px;
+    margin-bottom: 63px;
+    background: url("../images/texture\ background.png") no-repeat center;
+    background-size: cover;
+    position: relative;
+}
+#safe .safe-image{
+    padding-left: 50px;
+}
+#safe .one-image {
+    position: absolute;
+    right: 265px;
+    bottom: 150px;
+}
+#safe .safe_text_area h2{
+    font-weight: 600px;
+    font-size: 62px;
+    line-height: 126%; 
+    letter-spacing: 0.62px;
+    color: #05060A;
+    padding-top: 61px;
+    padding-bottom: 12px;
+}
+#safe .safe_text_area p{
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 146%;
+    color: #5D616F;
+    padding-bottom: 32px;
+}
+#safe .safe_text_area a{
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #3E82FC;
+    padding: 15px 40px;
+    border: 1px solid #3E82FC;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.4s;
+}
+#safe .safe_text_area a:hover{
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+/*--------------------safe css end-----------------*/
+/*--------------------journey css start-----------------*/
+#journey{
+   margin-bottom: 108px;
+}
+#journey h5{
+    font-weight: 500px;
+    line-height: 26px;
+    color: #3E82FC;
+    text-align: center;
+    padding-top: 64px;
+    font-size: 20px    
+}
+#journey h3{
+    font-weight: 600px;
+    font-size: 40px;
+    color: #05060A;
+    letter-spacing: 0.4px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 114px;
+}
+#journey .journey_down{
+   margin-top: 80px;
+}
+/*--------------------journey css end-----------------*/
+/*--------------------enjoy css start-----------------*/
+#enjoy{
+    background: url("../images/texture\ background\ two\ .png") no-repeat center;
+    background-size: cover;
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+#enjoy .text_area h2{
+    font-weight: 600px;
+    font-size: 62px;
+    line-height: 126%;
+    letter-spacing: 0.4px;
+    color: #05060A;
+    padding-top: 100px;
+}
+#enjoy .text_area p{
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 146%;
+    color: #5D616F;
+    width: 335px;
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+#enjoy .text_area a{
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #3E82FC;
+    padding: 15px 40px;
+    border: 1px solid #3E82FC;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.4s;
+}
+#enjoy .text_area a:hover{
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+#enjoy .enjoy_rightimg{
+    padding-left:  46px;
+}
+#enjoy .enjoy_parent{
+  position: relative;
+}
+#enjoy .two-image {
+    position: absolute;
+    left: 349px;
+    top: -237px;
+}
+/*--------------------enjoy css end-----------------*/
+/*--------------------nature css start-----------------*/
+#nature{
+    background: url("../images/texture\ background.png") no-repeat center;
+    background-size: cover;
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+#nature .nature-image{
+    padding-left: 10px;
+}
+#nature .nature_text{
+    padding-left: 50px;
+}
+#nature .nature_text h2{
+    font-weight: 600px;
+    font-size: 62px;
+    line-height: 126%;
+    letter-spacing: 0.4px;
+    color: #05060A;
+    padding-top: 100px;
+}
+#nature .nature_text p{
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 146%;
+    color: #5D616F;
+    width: 335px;
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+#nature .nature_text a{
+    font-weight: 600px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #3E82FC;
+    padding: 15px 49.5px;
+    border: 1px solid #3E82FC;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.4s;
+}
+#nature .nature_text a:hover{
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+#nature .nature_parent{
+    position: relative;
+}
+#nature .three-image {
+    position: absolute;
+    right: 10px;
+    top: -265px;
+}
+/*--------------------nature css end-----------------*/
+/*--------------------client css start-----------------*/
+#client{
+   background: #FBFEFF;
+  
+}
+#client h5{
+   font-weight: 500px;
+   font-size: 20px;
+   line-height: 26px;
+   color: #3E82FC;
+   text-align: center;
+   padding-top: 84px;
+}
+#client h3{
+    font-weight: 600px;
+    font-size: 40px;
+    letter-spacing: 0.4px;
+    color: #05060A;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 116px;
+}
+#client .omar{
+    width: 726px;
+    height: 394px;
+    background: #FFFFFF;
+    border-radius: 140px 0px;
+    box-shadow: 0px 54px 104px 0px rgba(0, 0, 0, 0.04);
+    padding: 52px 57px;
+}
+#client .parant-headphone{
+   gap: 120px;
+}
+#client .text-area h4{
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 26px;
+    color: #05060A;
+   text-align: center;
+   margin-right: 41px;
+}
+#client .text-area h2{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FE2C54;
+    text-align: center;
+    margin-right: 45px;
+}
+#client .text-area p{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #5D616F;
+    text-align: center;
+    width: 547px;
+    margin-top: 20px;
+}
+#client .omar .star-icons{
+    gap: 6px;
+}
+#client .omar .star-icons i{
+    font-size: 26px;
+    color: #F4B600;
+    text-align: center;
+}
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding: 0;
+    margin-right: 6px;
+    margin-left: 3px;
+    margin-bottom: 20px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #ECF3FF;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+.carousel {
+  height: 550px;
+}
+.carousel-indicators [data-bs-target]:hover{
+      background-color: #3E82FC;
+}
+/*--------------------client css end-----------------*/
+/*--------------------footer css start-----------------*/
+#footer{
+   background: #ECF3FF;
+   padding-top: 118px;
+   padding-bottom: 48px;
+}
+#footer h2{
+    font-weight: 600px;
+    line-height: 59px;
+    letter-spacing: 0.4px;
+    color: #05060A;
+    width: 575px;
+    padding-bottom: 30px;
+    font-size: 40px;  
+}
+#footer p{
+   font-weight: 400px;
+   font-size: 18px;
+   line-height: 26px;
+   color: #5D616F;
+   padding-bottom: 76px;
+   width: 570px;
+}
+#footer .email_box input{
+    width: 448px;
+    height: 58px;
+    border-radius: 50px;
+    border: 1px solid #3E82FC;
+    padding-left: 60px;
+    color: #3E82FC;
+}
+#footer .email_box{
+    position: relative;
+    padding-bottom: 116px;
+}
+#footer .email_box .email-icon {
+    position: absolute;
+    left: 22px;
+    top: 16px;
+    font-size: 26px;
+    color: #3E82FC;
+}
+#footer .email_box a{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #3E82FC;
+    padding: 13px 40px;
+    border: 1px solid #3E82FC;
+    text-decoration: none;
+    border-radius: 40px;
+    transition: 0.4s;
+    margin-left: 19px;
+}
+#footer .email_box a:hover{
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+#footer .email_box input::placeholder{
+    color: #3E82FC;
+}
+#footer .footer-left{
+    padding-top: 139px;
+}
+#footer .footer-left p{
+    font-weight: 400px;
+    font-size: 20px;
+    color: #5D616F;
+    padding-top: 16px;
+    width: 305px;
+    padding-bottom: 48px;
+}
+#footer .footer_icon{
+    display: flex;
+    gap: 29.08px;
+}
+#footer .footer_icon i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #3E82FC;
+    border: 1px solid #3E82FC;
+    line-height: 50px;
+    text-align: center;
+    transition: 0.4s;
+}
+#footer .footer_icon i:hover{
+    color: #FFFFFF;
+    background: #3E82FC;
+}
+#footer .location_item{
+    padding-top: 117px;
+}
+#footer .location_item h4{
+  font-weight: 500px;
+  font-size: 20px;
+  line-height: 180%;
+  color: #05060A;
+  padding-bottom: 20px;
+}
+#footer .location_item ul{
+    margin: 0;
+    padding: 0;
+}
+#footer .location_item ul li{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #5D616F;
+    list-style: none;
+    padding-top: 24px;
+}
+#footer .contact_item{
+    padding-top: 117px;
+}
+#footer .contact_item h4{
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 180%;
+    color: #05060A;
+    padding-bottom: 20px;
+}
+#footer .contact_item ul{
+    margin: 0;
+    padding: 0;
+}
+#footer .contact_item ul li{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 180%;
+    color: #5D616F;
+    list-style: none;
+    padding-top: 24px;
+}
+#footer .last-part{
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 26px;
+    color: #5D616F;
+    text-align: center;
+    padding-top: 131px;
+}
+/*--------------------footer css end-----------------*/
