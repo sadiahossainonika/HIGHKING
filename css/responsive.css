@@ -1,0 +1,434 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #3E82FC;
+        z-index: 999;
+    }
+    .nav_logo {
+        padding-top: 23px;
+    }
+    .nav-item {
+        margin-left: 42px;
+        padding-top: 12px;
+    }
+    #banner .banner_contact a {
+       padding: 10px 34px;
+        
+    }
+    #banner .watch-btn {
+        margin-left: 13px;
+    }
+    #banner .banner_text_area h1 {
+        font-size: 50px;
+    }
+    #banner .banner_img {
+        padding-top: 69px;
+        padding-left: 3px;
+        width: 100%;
+    }
+    #safe .safe-image {
+        padding: 0px;
+        width: 100%;
+    }
+    #safe {
+        margin-top: 22px;
+    }
+    #safe .safe_text_area h2 {
+         font-size: 49px;
+       padding-top: 47px;  
+    }
+    #safe .safe_text_area p {
+        font-size: 18px;
+        padding-bottom: 29px;
+    }
+    #safe .one-image {
+        right: -1px;
+        bottom: 45px;
+        width: 15%;
+    }
+    #safe .safe_text_area a {
+       padding: 10px 30px;
+       
+    }
+    #journey h3 {
+        font-size: 38px;
+         padding-bottom: 57px;
+    }
+    .tripaimg{
+        margin-left: -70px;
+    }
+    #enjoy .text_area h2 {
+       font-size: 44px;
+        padding-top: 75px;
+    }
+    #enjoy .enjoy_rightimg {
+        padding: 0px;
+        width: 100%;
+        padding-top: 28px;
+    }
+    #nature .nature-image {
+        padding-left: 10px;
+        width: 100%;
+    }
+    #nature .nature_text h2 {
+          font-size: 50px;
+        padding-top: 69px;
+    }
+    #nature .nature_text {
+        padding-left: 6px;
+    }
+    #nature .nature_text p {
+        font-size: 18px;
+        padding-bottom: 26px;
+    }
+    #nature .three-image {
+        position: absolute;
+        right: -13px;
+        top: -177px;
+        width: 25%;
+    }
+    #nature .nature_text a {
+      padding: 10px 30.5px;  
+    }
+    #nature {
+        margin-top: 119px;
+        margin-bottom: 92px;
+    }
+    .offset-2 {
+        margin-left: -0.333333%;
+    }
+    #footer .email_box input {
+        width: 356px;
+        
+    }
+    #footer .email_box a {
+       font-size: 18px;
+       padding: 10px 30px;
+       margin-left: 8px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    #footer p {
+        padding-bottom: 42px;
+        
+    }
+    #footer .footer-left {
+        padding-top: 4px;
+    }
+    #footer .location_item {
+        padding-top: 76px;
+    }
+    #footer .contact_item {
+        padding-top: 82px;
+    }
+    #footer .last-part {
+       padding-top: 87px;
+    }
+    #enjoy .text_area p {
+         font-size: 18px;
+        
+    }
+    #enjoy .two-image {
+        position: absolute;
+        left: 282px;
+        top: -168px;
+        width: 25%;
+    }
+    #footer .email_box .email-icon {
+        top: 25px;
+       
+    }
+    #footer h2 {
+         width: 416px;
+      
+    }
+    #footer p {
+        width: 363px;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #3E82FC;
+        z-index: 999;
+    }
+    .nav_logo {
+        padding-top: 23px;
+    }
+    .nav-item {
+        margin-left: 42px;
+        padding-top: 12px;
+    }
+    #banner .banner_contact a {
+       padding: 10px 34px;
+        
+    }
+    #banner .watch-btn {
+        margin-left: 13px;
+    }
+    #banner .banner_text_area h1 {
+        font-size: 50px;
+    }
+    #banner .banner_img {
+        padding-top: 69px;
+        padding-left: 3px;
+        width: 100%;
+    }
+    #safe .safe-image {
+        padding: 0px;
+        width: 100%;
+    }
+    #safe {
+        margin-top: 22px;
+    }
+    #safe .safe_text_area h2 {
+         font-size: 49px;
+       padding-top: 47px;  
+    }
+    #safe .safe_text_area p {
+        font-size: 18px;
+        padding-bottom: 29px;
+    }
+    #safe .one-image {
+        right: 18px;
+        bottom: 151px
+    }
+    #safe .safe_text_area a {
+       padding: 10px 30px;
+       
+    }
+    #journey h3 {
+        font-size: 38px;
+         padding-bottom: 57px;
+    }
+    .tripaimg{
+        margin-left: -70px;
+    }
+    #enjoy .text_area h2 {
+       font-size: 44px;
+        padding-top: 75px;
+    }
+    #enjoy .enjoy_rightimg {
+        padding: 0px;
+        width: 100%;
+        padding-top: 28px;
+    }
+    #nature .nature-image {
+        padding-left: 10px;
+        width: 100%;
+    }
+    #nature .nature_text h2 {
+          font-size: 50px;
+        padding-top: 69px;
+    }
+    #nature .nature_text {
+        padding-left: 6px;
+    }
+    #nature .nature_text p {
+        font-size: 18px;
+        padding-bottom: 26px;
+    }
+    #nature .three-image {
+        position: absolute;
+        right: 91px;
+        top: -239px;
+    }
+    #nature .nature_text a {
+      padding: 10px 30.5px;  
+    }
+    #nature {
+        margin-top: 119px;
+        margin-bottom: 92px;
+    }
+    .offset-2 {
+        margin-left: -0.333333%;
+    }
+    #footer .email_box input {
+        width: 356px;
+        
+    }
+    #footer .email_box a {
+       font-size: 18px;
+       padding: 10px 30px;
+       margin-left: 8px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    #footer p {
+        padding-bottom: 42px;
+        
+    }
+    #footer .footer-left {
+        padding-top: 4px;
+    }
+    #footer .location_item {
+        padding-top: 76px;
+    }
+    #footer .contact_item {
+        padding-top: 82px;
+    }
+    #footer .last-part {
+       padding-top: 87px;
+    }
+    #enjoy .text_area p {
+         font-size: 18px;
+        
+    }
+    #enjoy .two-image {
+        position: absolute;
+        left: 307px;
+        top: -198px;
+    }
+    #footer .email_box .email-icon {
+        top: 25px;
+       
+    }
+    .banner_contact{
+        display: inline-block;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px) {
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #3E82FC;
+        z-index: 999;
+    }
+    .nav_logo {
+        padding-top: 23px;
+    }
+    .nav-item {
+        margin-left: 42px;
+        padding-top: 12px;
+    }
+    #banner .banner_contact a {
+       padding: 10px 34px;
+        
+    }
+    #banner .watch-btn {
+        margin-left: 13px;
+    }
+    #banner .banner_text_area h1 {
+        font-size: 50px;
+    }
+    #banner .banner_img {
+        padding-top: 69px;
+        padding-left: 3px;
+        width: 100%;
+    }
+    #safe .safe-image {
+        padding: 0px;
+        width: 100%;
+    }
+    #safe {
+        margin-top: 22px;
+    }
+    #safe .safe_text_area h2 {
+         font-size: 49px;
+       padding-top: 47px;  
+    }
+    #safe .safe_text_area p {
+        font-size: 18px;
+        padding-bottom: 29px;
+    }
+    #safe .one-image {
+        right: 13px;
+        bottom: 312px
+    }
+    #safe .safe_text_area a {
+       padding: 10px 30px;
+       
+    }
+    #journey h3 {
+        font-size: 38px;
+         padding-bottom: 57px;
+    }
+    .tripaimg{
+        margin-left: -70px;
+    }
+    #enjoy .text_area h2 {
+       font-size: 44px;
+        padding-top: 75px;
+    }
+    #enjoy .enjoy_rightimg {
+        padding: 0px;
+        width: 100%;
+        padding-top: 28px;
+    }
+    #nature .nature-image {
+        padding-left: 10px;
+        width: 100%;
+    }
+    #nature .nature_text h2 {
+          font-size: 50px;
+        padding-top: 69px;
+    }
+    #nature .nature_text {
+        padding-left: 6px;
+    }
+    #nature .nature_text p {
+        font-size: 18px;
+        padding-bottom: 26px;
+    }
+    #nature .three-image {
+        position: absolute;
+        right: 12px;
+        top: -210px;
+    }
+    #nature .nature_text a {
+      padding: 10px 30.5px;  
+    }
+    #nature {
+        margin-top: 119px;
+        margin-bottom: 92px;
+    }
+    
+    #footer .email_box input {
+        width: 356px;
+        
+    }
+    #footer .email_box a {
+       font-size: 18px;
+       padding: 10px 30px;
+       margin-left: 8px;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    #footer p {
+        padding-bottom: 42px;
+        
+    }
+    #footer .footer-left {
+        padding-top: 4px;
+    }
+    #footer .location_item {
+        padding-top: 76px;
+    }
+    #footer .contact_item {
+        padding-top: 82px;
+    }
+    #footer .last-part {
+       padding-top: 87px;
+    }
+    #enjoy .text_area p {
+         font-size: 18px;
+        
+    }
+    #enjoy .two-image {
+        position: absolute;
+        left: 307px;
+        top: -198px;
+    }
+    #footer .email_box .email-icon {
+        top: 25px;
+       
+    }
+    .banner_contact{
+        display: inline-block;
+    }
+}
