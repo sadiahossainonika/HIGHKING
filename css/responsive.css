@@ -14,11 +14,11 @@
         padding-top: 12px;
     }
     #banner .banner_contact a {
-       padding: 10px 34px;
+       padding: 10px 30px;
         
     }
     #banner .watch-btn {
-        margin-left: 13px;
+        margin-left: -4px;
     }
     #banner .banner_text_area h1 {
         font-size: 50px;
@@ -44,8 +44,8 @@
         padding-bottom: 29px;
     }
     #safe .one-image {
-        right: -1px;
-        bottom: 45px;
+        right: 8px;
+        bottom: 233px;
         width: 15%;
     }
     #safe .safe_text_area a {
@@ -86,7 +86,7 @@
     #nature .three-image {
         position: absolute;
         right: -13px;
-        top: -177px;
+        top: -100px;
         width: 25%;
     }
     #nature .nature_text a {
@@ -100,7 +100,7 @@
         margin-left: -0.333333%;
     }
     #footer .email_box input {
-        width: 356px;
+        width: 340px;
         
     }
     #footer .email_box a {
@@ -132,8 +132,8 @@
     }
     #enjoy .two-image {
         position: absolute;
-        left: 282px;
-        top: -168px;
+        left: 237px;
+        top: -105px;
         width: 25%;
     }
     #footer .email_box .email-icon {
@@ -145,7 +145,7 @@
       
     }
     #footer p {
-        width: 363px;
+        width: 355px;
     }
 }
 @media (min-width: 576px) and (max-width: 768px) {
